@@ -1,14 +1,15 @@
 <lint-module
     format="1"
-    dir="C:\Users\pil19\every_web\flutter_app\app\alram_you\android\app"
+    dir="D:\flutter_app\app\alram_you\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     agpVersion="8.1.0"
-    buildFolder="C:\Users\pil19\every_web\flutter_app\app\alram_you\build\app"
-    bootClassPath="C:\Users\pil19\AppData\Local\Android\Sdk\platforms\android-35\android.jar;C:\Users\pil19\AppData\Local\Android\Sdk\build-tools\33.0.1\core-lambda-stubs.jar"
+    buildFolder="D:\flutter_app\app\alram_you\build\app"
+    bootClassPath="C:\Users\sangfeel\AppData\Local\Android\Sdk\platforms\android-35\android.jar;C:\Users\sangfeel\AppData\Local\Android\Sdk\build-tools\33.0.1\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
-    compileTarget="android-35">
+    compileTarget="android-35"
+    neverShrinking="true">
   <lintOptions
       abortOnError="true"
       absolutePaths="true"
