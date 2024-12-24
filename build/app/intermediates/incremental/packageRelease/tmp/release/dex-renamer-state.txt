@@ -1,0 +1,4 @@
+#Mon Dec 23 18:13:01 KST 2024
+base.0=C\:\\Users\\pil19\\every_web\\flutter_app\\app\\alram_you\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
